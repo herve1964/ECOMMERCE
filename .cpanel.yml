@@ -1,4 +1,4 @@
 deployment:
 tasks:
 - export DEPLOYPATH=/home/zkpl8392/ECOMMERCE
-- /herve1964/ECOMMERCE/templates -R images $DEPLOYPATH
+- /templates home.html.twig $DEPLOYPATH
