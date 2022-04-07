@@ -1,4 +1,3 @@
 deployment:
 tasks:
 - export DEPLOYPATH=/home/zkpl8392/ECOMMERCE
-- /bin/cp -r * $DEPLOYPATH
