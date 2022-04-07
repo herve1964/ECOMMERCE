@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/zkpl8392/ECOMMERCE/
+- export DEPLOYPATH=/zkpl8392/ECOMMERCE/
 - /templates -R images $DEPLOYPATH
